@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:31.242140
+#+DATE: 2015-08-30 20:21:32.744509
 #+TITLE: 菩薩行五十緣身經
 #+PROPERTY: CBETA_ID T17n0812
 #+PROPERTY: ID KR6i0518
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 812
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0518_T_000-0773a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0518_T_001-0773a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.812¶
-
- 《菩薩行五十緣身經》¶
+No. 812¶
+《菩薩行五十緣身經》¶
 ¶
 西晉月氏三藏竺法護譯¶
 
