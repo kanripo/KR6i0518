@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:31.242140
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:50
 #+TITLE: 菩薩行五十緣身經
 #+PROPERTY: CBETA_ID T17n0812
 #+PROPERTY: ID KR6i0518
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 812
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0518_T_000-0773a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0518_T_001-0773a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.812¶
-
- 《菩薩行五十緣身經》¶
+No. 812¶
+《菩薩行五十緣身經》¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -171,7 +170,7 @@ No.812¶
 羸。¶
 
 「菩薩世世不放火於山野，并除他人三毒。用¶
-是故，佛般泥洹後火，雖盛熾不能令佛變色。¶
+是故，佛般泥洹後，火雖盛熾，不能令佛變色。¶
 
 「菩薩世世常上師父母及有道德人，上貴舍宅¶
 衣被飲食，有從乞者給與之。用是故，諸天¶
